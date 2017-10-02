@@ -1,10 +1,9 @@
+"Copyright 2017 <Copyright Shadow>"
 #include <iostream>
-#include <locale.h>
 
 using namespace std;
 
 int main(int argc, char *argv[]) {
-  setlocale(LC_ALL, "RUS");
   char choice[1][1];
   choice[0][0] = 'y';
   while ((char)choice[0][0] == 'y') {
