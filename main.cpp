@@ -1,11 +1,10 @@
 #include <iostream>
-//#include <locale.h>
-//#include <string.h>
+#include <locale.h>
 
 using namespace std;
 
 int main(int argc, char *argv[]) {
-  //setlocale(LC_ALL, "RUS");
+  setlocale(LC_ALL, "RUS");
   char choice[1][1];
   choice[0][0] = 'y';
   while ((char)choice[0][0] == 'y') {
