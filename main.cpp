@@ -20,9 +20,7 @@ while((char)choice[0][0]=='y'){
          {
             cout<<"Ââåäèòå ïåðâîîå ÷èñëî:"<<endl;
             cin>>op1;
-          if(cin.good())  
-            cout<<"Ââåäèòå âòîðîå ÷èñëî:"<<endl;
-          if(cin.good())    
+            cout<<"Ââåäèòå âòîðîå ÷èñëî:"<<endl;   
             cin>>op2;
                if(cin.good())
 		       {  
