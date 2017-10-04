@@ -1,4 +1,4 @@
-//"Copyright 2017 <Copyright Shadow>"
+/*"Copyright 2017 <Copyright Shadow>"*/
 #include <iostream>
 
 using namespace std;
